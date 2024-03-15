@@ -10,6 +10,8 @@ package mx.edu.cesba;
  */
 public class CocheMain {
     
+    //Este es un comentario de prueba
+    
     public static void main(String[] args){
     
         Coche coche1 = new Coche();
